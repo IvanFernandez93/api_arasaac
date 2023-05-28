@@ -1,0 +1,22 @@
+_id: req_1010ccd5c0b14e68b526a77b49d49825
+type: Request
+parentId: fld_161d809ecfde47cc81ce225454f07e80
+modified: 1685268626400
+created: 1685268414541
+url: https://api.arasaac.org/api/pictograms/2247
+name: detail by id
+description: Obtain pictogram image file in png format based on its key.
+  Pictogram can be customized with color, resolution, plural…
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685267985352.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

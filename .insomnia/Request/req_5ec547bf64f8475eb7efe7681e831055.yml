@@ -1,0 +1,22 @@
+_id: req_5ec547bf64f8475eb7efe7681e831055
+type: Request
+parentId: fld_161d809ecfde47cc81ce225454f07e80
+modified: 1685269269816
+created: 1685269245755
+url: https://api.arasaac.org/api/pictograms/an/wordnet/1.6/id/hello
+name: wordnet identifier
+description: Obtain a list of pictograms based on the Wordnet identifier
+  (synset). Wordnet version must be provided.
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685269245755
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

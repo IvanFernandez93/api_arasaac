@@ -1,0 +1,21 @@
+_id: req_d4f975259549437ea8fd8f70cd801784
+type: Request
+parentId: fld_161d809ecfde47cc81ce225454f07e80
+modified: 1685269394369
+created: 1685269358362
+url: https://api.arasaac.org/api/pictograms/an/new/20
+name: last modified or publish pict
+description: Obtain last modified or publish pictograms.
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685269358362
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

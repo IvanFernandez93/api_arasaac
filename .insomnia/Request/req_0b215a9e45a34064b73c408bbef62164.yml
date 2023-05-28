@@ -1,0 +1,21 @@
+_id: req_0b215a9e45a34064b73c408bbef62164
+type: Request
+parentId: fld_161d809ecfde47cc81ce225454f07e80
+modified: 1685268401301
+created: 1685268323489
+url: https://api.arasaac.org/api/pictograms/all/an
+name: all by locale
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685268323489
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_c3248b068ad84f1d8a39ccc4d688dad1
+type: Request
+parentId: fld_64f3d4f6ea0545e0b55b252c94d46d8b
+modified: 1685268217494
+created: 1685268185196
+url: https://api.arasaac.org/api/materials/new/10
+name: last modified or publish materials
+description: Obtain a material based on its key.
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685267647116
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

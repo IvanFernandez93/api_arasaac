@@ -1,0 +1,25 @@
+_id: req_7cd72023f0124fa9b37928678ffdadbc
+type: Request
+parentId: fld_161d809ecfde47cc81ce225454f07e80
+modified: 1685268852707
+created: 1685268812778
+url: https://api.arasaac.org/api/pictograms/an/2247
+name: pictogram custom
+description: Obtain pictogram data based on its key (idPictogram). The pictogram
+  image url can be generated based on pictogram key value and the desired
+  resolution (300px, 500px or 2500px). For example
+  https://static.arasaac.org/pictograms/2340/2340_2500.png for pictogram with
+  key 2350 and resolution 2500px.
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685267816284.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_58c89a80cb7649e8b09fb240219a099d
+type: Request
+parentId: fld_161d809ecfde47cc81ce225454f07e80
+modified: 1685269326193
+created: 1685269303862
+url: https://api.arasaac.org/api/pictograms/an/days/30
+name: pictogram by materials
+description: Obtain pictograms created or updated in the last days.
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685267657782.7656
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

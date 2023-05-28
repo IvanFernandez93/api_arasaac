@@ -1,0 +1,21 @@
+_id: req_0d0e2c97e12b461aae9e2a64fcfdc4c2
+type: Request
+parentId: fld_64f3d4f6ea0545e0b55b252c94d46d8b
+modified: 1685268141396
+created: 1685268114656
+url: https://api.arasaac.org/api/materials/days/10
+name: days
+description: Obtain a material based on its key.
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1685267647166
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
